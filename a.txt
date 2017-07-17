@@ -3,3 +3,5 @@ text.setGravity(Gravity.CENTER);
             text.setText("Page " + position);
             text.setPadding(30, 30, 30, 30);
 text.setPaddingtext.setPaddingtext.setPaddingtext.setPaddingtext.setPaddingtext.setPadding
+
+git push origin master:new_feature_namegit push origin master:new_feature_namegit push origin master:new_feature_name
